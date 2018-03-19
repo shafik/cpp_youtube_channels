@@ -16,6 +16,8 @@
 - [C++ Russie / Siberia ( Mostly Russian some English )](https://www.youtube.com/channel/UCJ9v015sPgEi0jJXe_zanjA) ([@cpp_russia](https://twitter.com/cpp_russia))
 - [Using std::cpp (mostly Spanish](https://www.youtube.com/channel/UC0fpufx5KaNfa8GEVSVwwJw) ([@usingstdcpp](https://twitter.com/usingstdcpp))
 
-## Other
+## Podcasts
 - [cppcast](https://www.youtube.com/channel/UCuCjADS4u3uJDTqUaG0H9dA) ([@cppcast](https://twitter.com/cppcast))
+
+## Video Series
 - [C++ Weekly](https://www.youtube.com/user/lefticus1) ([lefticus](https://twitter.com/lefticus))
