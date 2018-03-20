@@ -13,7 +13,7 @@
 - [Italian C++ Community](https://www.youtube.com/channel/UCNge3iECU0XKjshac_hdejw) ([@italiancpp](https://twitter.com/italiancpp))
 - [NWCPP - Northwest C++ Users Group](https://www.youtube.com/channel/UCrg3ot2uEjn3jLs4PmeqEAg) ([@nwcpp](https://twitter.com/nwcpp))
 - [CoreCppIL](https://www.youtube.com/channel/UCE14XYFaK1fDTnOTqlOFrrQ?app=desktop) ([@corecpp](https://twitter.com/corecpp))
-- [C++ Russie / Siberia ( Mostly Russian some English )](https://www.youtube.com/channel/UCJ9v015sPgEi0jJXe_zanjA) ([@cpp_russia](https://twitter.com/cpp_russia))
+- [C++ Russia / Siberia (Mostly Russian some English)](https://www.youtube.com/channel/UCJ9v015sPgEi0jJXe_zanjA) ([@cpp_russia](https://twitter.com/cpp_russia))
 - [Using std::cpp (mostly Spanish](https://www.youtube.com/channel/UC0fpufx5KaNfa8GEVSVwwJw) ([@usingstdcpp](https://twitter.com/usingstdcpp))
 
 ## Other
