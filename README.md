@@ -10,7 +10,6 @@
 ## User Groups
 - [SwedenCpp](https://www.youtube.com/c/SwedenCpp) ([@SwedenCpp](https://twitter.com/SwedenCpp))
 - [C++ Edinburgh](https://www.youtube.com/channel/UC3MI-cTQcGTkwWsf6z0hldQ) ([@cppedinburgh](https://twitter.com/cppedinburgh))
-- [C++ London](https://www.youtube.com/channel/UCVaVY-fcOSBTc_8HibVB5VA) ([@CppLondon](https://twitter.com/CppLondon))
 - [Italian C++ Community](https://www.youtube.com/channel/UCNge3iECU0XKjshac_hdejw) ([@italiancpp](https://twitter.com/italiancpp))
 - [NWCPP - Northwest C++ Users Group](https://www.youtube.com/channel/UCrg3ot2uEjn3jLs4PmeqEAg) ([@nwcpp](https://twitter.com/nwcpp))
 - [CoreCppIL](https://www.youtube.com/channel/UCE14XYFaK1fDTnOTqlOFrrQ?app=desktop) ([@corecpp](https://twitter.com/corecpp))
@@ -22,3 +21,4 @@
 
 ## Video Series
 - [C++ Weekly](https://www.youtube.com/user/lefticus1) ([lefticus](https://twitter.com/lefticus))
+- [C++ London University](https://www.youtube.com/channel/UCVaVY-fcOSBTc_8HibVB5VA) ([@cpplondonuni](https://twitter.com/cpplondonuni)) [[website](https://www.cpplondonuni.com/)]
