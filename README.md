@@ -18,6 +18,7 @@
 
 ## Podcasts
 - [cppcast](https://www.youtube.com/channel/UCuCjADS4u3uJDTqUaG0H9dA) ([@cppcast](https://twitter.com/cppcast))
+- [cpp.chat](https://www.youtube.com/channel/UCsefcSZGxO9lTBqFbsV3sJg/featured) ([@cppchat](https://twitter.com/cppchat))[[website](http://cpp.chat/)]
 
 ## Video Series
 - [C++ Weekly](https://www.youtube.com/user/lefticus1) ([lefticus](https://twitter.com/lefticus))
