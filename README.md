@@ -6,6 +6,7 @@
 - [Meeting CPP]( https://www.youtube.com/user/MeetingCPP) ([@meetingcpp](https://twitter.com/meetingcpp))
 - [Pacific++](https://www.youtube.com/channel/UCrRR5mU5aqvtZAuEGYfdTjw) ([@pacificplusplus](https://twitter.com/pacificplusplus))
 - [Code Dive](https://www.youtube.com/channel/UCU0Rt8VHO5-YNQXwIjkf-1g/videos) ([@code_dive_pl](https://twitter.com/code_dive_pl))
+- [emBO++](https://www.youtube.com/channel/UCg2JbpJ-PGdFUEZEiNr0GWg) ([@emBO++](https://twitter.com/emboconference))
 
 ## User Groups
 - [SwedenCpp](https://www.youtube.com/c/SwedenCpp) ([@SwedenCpp](https://twitter.com/SwedenCpp))
