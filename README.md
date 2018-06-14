@@ -17,6 +17,7 @@
 - [C++ Russia / Siberia (Mostly Russian some English)](https://www.youtube.com/channel/UCJ9v015sPgEi0jJXe_zanjA) ([@cpp_russia](https://twitter.com/cpp_russia))
 - [Using std::cpp (mostly Spanish](https://www.youtube.com/channel/UC0fpufx5KaNfa8GEVSVwwJw) ([@usingstdcpp](https://twitter.com/usingstdcpp))
 - [MUCplusplus](https://www.youtube.com/channel/UCf3tX0nf8EFIwmgQBH6PIGw) 
+- [St. Petersburg C++ User Group (Mostly Russian some English)](https://www.youtube.com/playlist?list=PLtDc3cNvuhAIU_LRYg6xFaJV_95Kkt79n)
 
 ## Podcasts
 - [cppcast](https://www.youtube.com/channel/UCuCjADS4u3uJDTqUaG0H9dA) ([@cppcast](https://twitter.com/cppcast)) [[website](https://cppcast.com/)]
