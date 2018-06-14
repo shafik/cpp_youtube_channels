@@ -7,7 +7,7 @@
 - [Pacific++](https://www.youtube.com/channel/UCrRR5mU5aqvtZAuEGYfdTjw) ([@pacificplusplus](https://twitter.com/pacificplusplus))
 - [Code Dive](https://www.youtube.com/channel/UCU0Rt8VHO5-YNQXwIjkf-1g/videos) ([@code_dive_pl](https://twitter.com/code_dive_pl))
 - [emBO++](https://www.youtube.com/channel/UCg2JbpJ-PGdFUEZEiNr0GWg) ([@emBO++](https://twitter.com/emboconference))
-
+- [NDC Conferences](https://www.youtube.com/channel/UCTdw38Cw6jcm0atBPA39a0Q/) ([@NDC_Conferences](https://twitter.com/ndc_conferences))
 ## User Groups
 - [SwedenCpp](https://www.youtube.com/c/SwedenCpp) ([@SwedenCpp](https://twitter.com/SwedenCpp))
 - [C++ Edinburgh](https://www.youtube.com/channel/UC3MI-cTQcGTkwWsf6z0hldQ) ([@cppedinburgh](https://twitter.com/cppedinburgh))
