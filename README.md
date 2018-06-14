@@ -16,6 +16,7 @@
 - [CoreCppIL](https://www.youtube.com/channel/UCE14XYFaK1fDTnOTqlOFrrQ?app=desktop) ([@corecpp](https://twitter.com/corecpp))
 - [C++ Russia / Siberia (Mostly Russian some English)](https://www.youtube.com/channel/UCJ9v015sPgEi0jJXe_zanjA) ([@cpp_russia](https://twitter.com/cpp_russia))
 - [Using std::cpp (mostly Spanish](https://www.youtube.com/channel/UC0fpufx5KaNfa8GEVSVwwJw) ([@usingstdcpp](https://twitter.com/usingstdcpp))
+- [MUCplusplus](https://www.youtube.com/channel/UCf3tX0nf8EFIwmgQBH6PIGw) 
 
 ## Podcasts
 - [cppcast](https://www.youtube.com/channel/UCuCjADS4u3uJDTqUaG0H9dA) ([@cppcast](https://twitter.com/cppcast))
