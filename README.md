@@ -26,5 +26,6 @@
 - [cppcast](https://www.youtube.com/channel/UCuCjADS4u3uJDTqUaG0H9dA) ([@cppcast](https://twitter.com/cppcast)) [[website](https://cppcast.com/)]
 
 ## Video Series
+- [Avast Events System](https://www.youtube.com/channel/UCHTSwSUlXoeRGGcghEm2sxA) 
 - [C++ London University](https://www.youtube.com/channel/UCVaVY-fcOSBTc_8HibVB5VA) ([@cpplondonuni](https://twitter.com/cpplondonuni)) [[website](https://www.cpplondonuni.com/)]
 - [C++ Weekly](https://www.youtube.com/user/lefticus1) ([lefticus](https://twitter.com/lefticus)) 
