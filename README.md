@@ -29,3 +29,4 @@
 - [Avast Events System](https://www.youtube.com/channel/UCHTSwSUlXoeRGGcghEm2sxA) 
 - [C++ London University](https://www.youtube.com/channel/UCVaVY-fcOSBTc_8HibVB5VA) ([@cpplondonuni](https://twitter.com/cpplondonuni)) [[website](https://www.cpplondonuni.com/)]
 - [C++ Weekly](https://www.youtube.com/user/lefticus1) ([lefticus](https://twitter.com/lefticus)) 
+- [FooCafe](https://www.youtube.com/channel/UCTfO1Sn5MXXPasEl3ZS4GGA) ([@_foocafe_](https://twitter.com/_foocafe_)) [[website](http://foocafe.org/)] (different languages)
