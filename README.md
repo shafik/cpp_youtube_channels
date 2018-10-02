@@ -13,6 +13,7 @@
 - [C++ Dublin User Group](https://www.youtube.com/channel/UCZ4UNE_1IMUFfAhcdq7CMOg/)  ([@cppdug](https://twitter.com/cppdug))
 - [C++ Edinburgh](https://www.youtube.com/channel/UC3MI-cTQcGTkwWsf6z0hldQ) ([@cppedinburgh](https://twitter.com/cppedinburgh))
 - [C++ Russia / Siberia](https://www.youtube.com/channel/UCJ9v015sPgEi0jJXe_zanjA) ([@cpp_russia](https://twitter.com/cpp_russia)) (Mostly Russian some English)
+- [C++ Usergroup Dresden](https://www.youtube.com/channel/UCo2gC3EcC96Zz4sENWvR6qQ) (only german)
 - [CoreCppIL](https://www.youtube.com/channel/UCE14XYFaK1fDTnOTqlOFrrQ?app=desktop) ([@corecpp](https://twitter.com/corecpp))
 - [Italian C++ Community](https://www.youtube.com/channel/UCNge3iECU0XKjshac_hdejw) ([@italiancpp](https://twitter.com/italiancpp))
 - [MUCplusplus](https://www.youtube.com/channel/UCf3tX0nf8EFIwmgQBH6PIGw) 
