@@ -12,17 +12,17 @@
 ## User Groups
 - [C++ Dublin User Group](https://www.youtube.com/channel/UCZ4UNE_1IMUFfAhcdq7CMOg/)  ([@cppdug](https://twitter.com/cppdug))
 - [C++ Edinburgh](https://www.youtube.com/channel/UC3MI-cTQcGTkwWsf6z0hldQ) ([@cppedinburgh](https://twitter.com/cppedinburgh))
-- [C++ Russia / Siberia (Mostly Russian some English)](https://www.youtube.com/channel/UCJ9v015sPgEi0jJXe_zanjA) ([@cpp_russia](https://twitter.com/cpp_russia))
+- [C++ Russia / Siberia](https://www.youtube.com/channel/UCJ9v015sPgEi0jJXe_zanjA) ([@cpp_russia](https://twitter.com/cpp_russia)) (Mostly Russian some English)
 - [CoreCppIL](https://www.youtube.com/channel/UCE14XYFaK1fDTnOTqlOFrrQ?app=desktop) ([@corecpp](https://twitter.com/corecpp))
 - [Italian C++ Community](https://www.youtube.com/channel/UCNge3iECU0XKjshac_hdejw) ([@italiancpp](https://twitter.com/italiancpp))
 - [MUCplusplus](https://www.youtube.com/channel/UCf3tX0nf8EFIwmgQBH6PIGw) 
 - [NWCPP - Northwest C++ Users Group](https://www.youtube.com/channel/UCrg3ot2uEjn3jLs4PmeqEAg) ([@nwcpp](https://twitter.com/nwcpp))
-- [St. Petersburg C++ User Group (Mostly Russian some English)](https://www.youtube.com/playlist?list=PLtDc3cNvuhAIU_LRYg6xFaJV_95Kkt79n)
+- [St. Petersburg C++ User Group](https://www.youtube.com/playlist?list=PLtDc3cNvuhAIU_LRYg6xFaJV_95Kkt79n) (Mostly Russian some English)
 - [SwedenCpp](https://www.youtube.com/c/SwedenCpp) ([@SwedenCpp](https://twitter.com/SwedenCpp))
 - [Using std::cpp (mostly Spanish](https://www.youtube.com/channel/UC0fpufx5KaNfa8GEVSVwwJw) ([@usingstdcpp](https://twitter.com/usingstdcpp))
 
 ## Podcasts
-- [cpp.chat](https://www.youtube.com/channel/UCsefcSZGxO9lTBqFbsV3sJg/featured) ([@cppchat](https://twitter.com/cppchat))[[website](http://cpp.chat/)]
+- [cpp.chat](https://www.youtube.com/channel/UCsefcSZGxO9lTBqFbsV3sJg/featured) ([@cppchat](https://twitter.com/cppchat)) [[website](http://cpp.chat/)]
 - [cppcast](https://www.youtube.com/channel/UCuCjADS4u3uJDTqUaG0H9dA) ([@cppcast](https://twitter.com/cppcast)) [[website](https://cppcast.com/)]
 
 ## Video Series
