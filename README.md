@@ -6,7 +6,7 @@
 - [Code Dive](https://www.youtube.com/channel/UCU0Rt8VHO5-YNQXwIjkf-1g/videos) ([@code_dive_pl](https://twitter.com/code_dive_pl)) [[website](http://www.codedive.pl)]
 - [emBO++](https://www.youtube.com/channel/UCg2JbpJ-PGdFUEZEiNr0GWg) ([@emBO++](https://twitter.com/emboconference)) [[website](https://www.embo.io)]
 - [Meeting CPP]( https://www.youtube.com/user/MeetingCPP) ([@meetingcpp](https://twitter.com/meetingcpp)) [[website](https://meetingcpp.com/)] 
-- [NDC Conferences](https://www.youtube.com/channel/UCTdw38Cw6jcm0atBPA39a0Q/) ([@NDC_Conferences](https://twitter.com/ndc_conferences)) [[website](http://ndcconferences.com/)]
+- [NDC Conferences](https://www.youtube.com/channel/UCTdw38Cw6jcm0atBPA39a0Q/) ([@NDC_Conferences](https://twitter.com/ndc_conferences)) [[website](http://ndcconferences.com/)] (different languages)
 - [Pacific++](https://www.youtube.com/channel/UCrRR5mU5aqvtZAuEGYfdTjw) ([@pacificplusplus](https://twitter.com/pacificplusplus)) [[website](https://pacificplusplus.com/)] 
 
 ## User Groups
@@ -26,7 +26,9 @@
 - [cppcast](https://www.youtube.com/channel/UCuCjADS4u3uJDTqUaG0H9dA) ([@cppcast](https://twitter.com/cppcast)) [[website](https://cppcast.com/)]
 
 ## Video Series
-- [Avast Events System](https://www.youtube.com/channel/UCHTSwSUlXoeRGGcghEm2sxA) 
 - [C++ London University](https://www.youtube.com/channel/UCVaVY-fcOSBTc_8HibVB5VA) ([@cpplondonuni](https://twitter.com/cpplondonuni)) [[website](https://www.cpplondonuni.com/)]
-- [C++ Weekly](https://www.youtube.com/user/lefticus1) ([lefticus](https://twitter.com/lefticus)) 
+- [C++ Weekly](https://www.youtube.com/user/lefticus1) ([@lefticus](https://twitter.com/lefticus)) 
+
+## Miscellaneous
+- [Avast Events System](https://www.youtube.com/channel/UCHTSwSUlXoeRGGcghEm2sxA) 
 - [FooCafe](https://www.youtube.com/channel/UCTfO1Sn5MXXPasEl3ZS4GGA) ([@_foocafe_](https://twitter.com/_foocafe_)) [[website](http://foocafe.org/)] (different languages)
