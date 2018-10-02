@@ -19,6 +19,7 @@
 - [NWCPP - Northwest C++ Users Group](https://www.youtube.com/channel/UCrg3ot2uEjn3jLs4PmeqEAg) ([@nwcpp](https://twitter.com/nwcpp))
 - [St. Petersburg C++ User Group](https://www.youtube.com/playlist?list=PLtDc3cNvuhAIU_LRYg6xFaJV_95Kkt79n) (Mostly Russian some English)
 - [SwedenCpp](https://www.youtube.com/c/SwedenCpp) ([@SwedenCpp](https://twitter.com/SwedenCpp))
+- [The Dutch C++ Group](https://www.youtube.com/playlist?list=PLJ8qy7OeQ8LQ3dgDOGAGDXBKvh0UItjE6) ([@TheDutchCppGrp](https://twitter.com/TheDutchCppGrp))
 - [Using std::cpp](https://www.youtube.com/channel/UC0fpufx5KaNfa8GEVSVwwJw) ([@usingstdcpp](https://twitter.com/usingstdcpp)) (mostly Spanish)
 
 ## Podcasts
