@@ -29,6 +29,7 @@
 - [cppcast](https://www.youtube.com/channel/UCuCjADS4u3uJDTqUaG0H9dA) ([@cppcast](https://twitter.com/cppcast)) [[website](https://cppcast.com/)]
 
 ## Video Series
+- [CopperSpice](https://www.youtube.com/channel/UC-lNlWEq0kpMcThO-I81ZdQ) [[website](http://www.copperspice.com/)]
 - [C++ London University](https://www.youtube.com/channel/UCVaVY-fcOSBTc_8HibVB5VA) ([@cpplondonuni](https://twitter.com/cpplondonuni)) [[website](https://www.cpplondonuni.com/)]
 - [C++ Weekly](https://www.youtube.com/user/lefticus1) ([@lefticus](https://twitter.com/lefticus)) 
 
