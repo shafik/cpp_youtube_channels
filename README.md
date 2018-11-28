@@ -3,7 +3,8 @@
 - [ACCU Conference](https://www.youtube.com/channel/UCJhay24LTpO1s4bIZxuIqKw) ([@ACCUConf](https://twitter.com/ACCUConf)) [[website](https://conference.accu.org/)]
 - [C++Now]( https://www.youtube.com/user/BoostCon) ([@cppnow](https://twitter.com/cppnow))  [[website](http://cppnow.org/)]
 - [CPPCon](https://www.youtube.com/user/CppCon) ([@CppCon](https://twitter.com/CppCon)) [[website](https://cppcon.org/)]
-- [Code Dive](https://www.youtube.com/channel/UCU0Rt8VHO5-YNQXwIjkf-1g/videos) ([@code_dive_pl](https://twitter.com/code_dive_pl)) [[website](http://www.codedive.pl)]
+- [Code::Dive](https://www.youtube.com/channel/UCU0Rt8VHO5-YNQXwIjkf-1g/videos) ([@code_dive_pl](https://twitter.com/code_dive_pl)) [[website](http://www.codedive.pl)]
+- [Code Europe](https://www.youtube.com/channel/UChdVVEAilVHULlycMbqRpdg/) ([@code_europe](https://twitter.com/code_europe)) [[website](https://www.codeeurope.pl/)] (different programming languages)
 - [emBO++](https://www.youtube.com/channel/UCg2JbpJ-PGdFUEZEiNr0GWg) ([@emBO++](https://twitter.com/emboconference)) [[website](https://www.embo.io)]
 - [Meeting CPP]( https://www.youtube.com/user/MeetingCPP) ([@meetingcpp](https://twitter.com/meetingcpp)) [[website](https://meetingcpp.com/)] 
 - [NDC Conferences](https://www.youtube.com/channel/UCTdw38Cw6jcm0atBPA39a0Q/) ([@NDC_Conferences](https://twitter.com/ndc_conferences)) [[website](http://ndcconferences.com/)] (different programming languages)
