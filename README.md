@@ -3,6 +3,7 @@
 - [ACCU Conference](https://www.youtube.com/channel/UCJhay24LTpO1s4bIZxuIqKw) ([@ACCUConf](https://twitter.com/ACCUConf)) [[website](https://conference.accu.org/)]
 - [C++Now]( https://www.youtube.com/user/BoostCon) ([@cppnow](https://twitter.com/cppnow))  [[website](http://cppnow.org/)]
 - [CPPCon](https://www.youtube.com/user/CppCon) ([@CppCon](https://twitter.com/CppCon)) [[website](https://cppcon.org/)]
+- [C++OnSea](https://www.youtube.com/channel/UCAczr0j6ZuiVaiGFZ4qxApw) ([@cpponsea](https://twitter.com/cpponsea)) [[website](https://cpponsea.uk/)]
 - [Code::Dive](https://www.youtube.com/channel/UCU0Rt8VHO5-YNQXwIjkf-1g/videos) ([@code_dive_pl](https://twitter.com/code_dive_pl)) [[website](http://www.codedive.pl)]
 - [Code Europe](https://www.youtube.com/channel/UChdVVEAilVHULlycMbqRpdg/) ([@code_europe](https://twitter.com/code_europe)) [[website](https://www.codeeurope.pl/)] (different programming languages)
 - [emBO++](https://www.youtube.com/channel/UCg2JbpJ-PGdFUEZEiNr0GWg) ([@emBO++](https://twitter.com/emboconference)) [[website](https://www.embo.io)]
