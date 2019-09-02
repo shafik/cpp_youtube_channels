@@ -37,5 +37,4 @@
 - [C++ Weekly](https://www.youtube.com/user/lefticus1) ([@lefticus](https://twitter.com/lefticus)) 
 
 ## Miscellaneous
-- [Avast Events System](https://www.youtube.com/channel/UCHTSwSUlXoeRGGcghEm2sxA) 
 - [FooCafe](https://www.youtube.com/channel/UCTfO1Sn5MXXPasEl3ZS4GGA) ([@_foocafe_](https://twitter.com/_foocafe_)) [[website](http://foocafe.org/)] (different programming languages)
