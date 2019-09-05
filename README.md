@@ -24,6 +24,7 @@
 - [St. Petersburg C++ User Group](https://www.youtube.com/playlist?list=PLtDc3cNvuhAIU_LRYg6xFaJV_95Kkt79n) (Mostly Russian some English)
 - [SwedenCpp](https://www.youtube.com/c/SwedenCpp) ([@SwedenCpp](https://twitter.com/SwedenCpp))
 - [The Dutch C++ Group](https://www.youtube.com/playlist?list=PLJ8qy7OeQ8LQ3dgDOGAGDXBKvh0UItjE6) ([@TheDutchCppGrp](https://twitter.com/TheDutchCppGrp))
+- [The Prague C++ Meetup](https://www.youtube.com/playlist?list=PLcx5OZDrH5tv9Bz9VGYV7fQCUkOTixOVl) ([@avast_cppmeetup](https://twitter.com/avast_cppmeetup))
 - [Using std::cpp](https://www.youtube.com/channel/UC0fpufx5KaNfa8GEVSVwwJw) ([@usingstdcpp](https://twitter.com/usingstdcpp)) (mostly Spanish)
 
 ## Podcasts
@@ -36,5 +37,4 @@
 - [C++ Weekly](https://www.youtube.com/user/lefticus1) ([@lefticus](https://twitter.com/lefticus)) 
 
 ## Miscellaneous
-- [Avast Events System](https://www.youtube.com/channel/UCHTSwSUlXoeRGGcghEm2sxA) 
 - [FooCafe](https://www.youtube.com/channel/UCTfO1Sn5MXXPasEl3ZS4GGA) ([@_foocafe_](https://twitter.com/_foocafe_)) [[website](http://foocafe.org/)] (different programming languages)
