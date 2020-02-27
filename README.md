@@ -12,6 +12,7 @@
 - [Pacific++](https://www.youtube.com/channel/UCrRR5mU5aqvtZAuEGYfdTjw) ([@pacificplusplus](https://twitter.com/pacificplusplus)) [[website](https://pacificplusplus.com/)] 
 
 ## User Groups
+- [C & C++ Brasil](https://www.youtube.com/channel/UCcS3HTXSQVPdzkOvGu7bgYg) ([@ccppbrasil](https://twitter.com/ccppbrasil))  [[website](http://ccppbrasil.github.io/)] (mostly Portuguese)
 - [C++ Dublin User Group](https://www.youtube.com/channel/UCZ4UNE_1IMUFfAhcdq7CMOg/)  ([@cppdug](https://twitter.com/cppdug))
 - [C++ Edinburgh](https://www.youtube.com/channel/UC3MI-cTQcGTkwWsf6z0hldQ) ([@cppedinburgh](https://twitter.com/cppedinburgh))
 - [C++ Russia / Siberia](https://www.youtube.com/channel/UCJ9v015sPgEi0jJXe_zanjA) ([@cpp_russia](https://twitter.com/cpp_russia)) (Mostly Russian some English)
