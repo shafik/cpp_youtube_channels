@@ -27,6 +27,7 @@
 - [The Dutch C++ Group](https://www.youtube.com/playlist?list=PLJ8qy7OeQ8LQ3dgDOGAGDXBKvh0UItjE6) ([@TheDutchCppGrp](https://twitter.com/TheDutchCppGrp))
 - [The Prague C++ Meetup](https://www.youtube.com/playlist?list=PLcx5OZDrH5tv9Bz9VGYV7fQCUkOTixOVl) ([@avast_cppmeetup](https://twitter.com/avast_cppmeetup))
 - [Using std::cpp](https://www.youtube.com/channel/UC0fpufx5KaNfa8GEVSVwwJw) ([@usingstdcpp](https://twitter.com/usingstdcpp)) (mostly Spanish)
+- [CppFRug - C++ French User Group](https://www.youtube.com/@cppfrug1240/videos) (mostly French)
 
 ## Podcasts
 - [cpp.chat](https://www.youtube.com/channel/UCsefcSZGxO9lTBqFbsV3sJg/featured) ([@cppchat](https://twitter.com/cppchat)) [[website](http://cpp.chat/)]
